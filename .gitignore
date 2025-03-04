@@ -9,6 +9,9 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+./resultados
+/resultados/
+resultados/
 
 # testing
 /coverage
