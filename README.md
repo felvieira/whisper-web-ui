@@ -2,7 +2,21 @@
 
 Interface web para transcrição de áudio usando o modelo Whisper da OpenAI.
 
-![Whisper Web UI](https://github.com/openai/whisper/raw/main/approach.png)
+*Read this in [English](./README.en.md)*
+
+![Whisper Web UI](./media/ezgif-5596f1df9c68c2.gif)
+
+### Vídeo Demonstrativo
+
+Para uma demonstração mais detalhada do funcionamento da aplicação, assista ao vídeo abaixo:
+
+<video src="./media/whisper-web-ui-otm.mp4" controls title="Demonstração do Whisper Web UI" width="640"></video>
+
+> **Nota:** A tag de vídeo acima pode não funcionar em todas as plataformas de visualização de README (como GitHub, GitLab, etc.). Se o vídeo não estiver visível, você pode acessá-lo através do link abaixo.
+
+Você também pode baixar o vídeo diretamente:
+
+[Download do vídeo demonstrativo](https://github.com/felvieira/whisper-web-ui/raw/main/media/whisper-web-ui-otm.mp4)
 
 ## Sobre o Projeto
 
