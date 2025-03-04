@@ -1,0 +1,47 @@
+{
+  "652cdbc6-944c-4b75-9e64-5f70f96bfd42": {
+    "id": "652cdbc6-944c-4b75-9e64-5f70f96bfd42",
+    "nome_arquivo": "audio-felipe-para-treino-ia.wav",
+    "modelo": "large",
+    "formato": "srt",
+    "dispositivo": "cuda",
+    "idioma": "auto",
+    "tarefa": "transcricao",
+    "status": "concluido",
+    "data_criacao": "2025-03-03T18:19:14.908706",
+    "progresso": 100,
+    "arquivo_saida": "C:\\Users\\flpch\\Repos\\whisper\\whisper-web-ui\\resultados\\652cdbc6-944c-4b75-9e64-5f70f96bfd42_audio-felipe-para-treino-ia.srt",
+    "nome_arquivo_saida": "audio-felipe-para-treino-ia.srt",
+    "tempo_processamento": 159.36763310432434
+  },
+  "3c1c3beb-4323-4fc9-95bb-5ea4f03b1f3a": {
+    "id": "3c1c3beb-4323-4fc9-95bb-5ea4f03b1f3a",
+    "nome_arquivo": "parte-6-apps(1).mp3",
+    "modelo": "large",
+    "formato": "srt",
+    "dispositivo": "cuda",
+    "idioma": "pt",
+    "tarefa": "transcricao",
+    "status": "concluido",
+    "data_criacao": "2025-03-03T18:26:26.960991",
+    "progresso": 100,
+    "arquivo_saida": "C:\\Users\\flpch\\Repos\\whisper\\whisper-web-ui\\resultados\\3c1c3beb-4323-4fc9-95bb-5ea4f03b1f3a_parte-6-apps(1).srt",
+    "nome_arquivo_saida": "parte-6-apps(1).srt",
+    "tempo_processamento": 5213.44025349617
+  },
+  "7c04f15d-4856-4341-a4d3-bcfaffa57176": {
+    "id": "7c04f15d-4856-4341-a4d3-bcfaffa57176",
+    "nome_arquivo": "audio-felipe-para-treino-ia.wav",
+    "modelo": "base",
+    "formato": "srt",
+    "dispositivo": "cuda",
+    "idioma": "pt",
+    "tarefa": "transcricao",
+    "status": "concluido",
+    "data_criacao": "2025-03-03T21:52:31.038088",
+    "progresso": 100,
+    "arquivo_saida": "C:\\Users\\flpch\\Repos\\whisper\\whisper-web-ui\\resultados\\7c04f15d-4856-4341-a4d3-bcfaffa57176_audio-felipe-para-treino-ia.srt",
+    "nome_arquivo_saida": "audio-felipe-para-treino-ia.srt",
+    "tempo_processamento": 17.542577266693115
+  }
+}

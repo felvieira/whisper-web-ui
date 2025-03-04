@@ -1,0 +1,8 @@
+openai-whisper>=20231117
+torch>=2.0.0
+torchaudio>=2.0.0
+numpy>=1.20.0
+flask>=2.0.0
+flask-cors>=3.0.0
+tiktoken>=0.3.3
+ffmpeg-python>=0.2.0 
